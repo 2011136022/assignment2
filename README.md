@@ -16,6 +16,6 @@
  | 구분 | 이름 | 사진 | 관련 사이트 |
 | ------------- |:-------------:| :-----:| :-----:|
 | 국내 | 기존 가변차로제 | ![alt text](photo1.png) | [link](https://ko.wikipedia.org/wiki/%EA%B0%80%EB%B3%80%EC%B0%A8%EB%A1%9C) |
-| 국외 | 이동식 중앙분리선 | ![alt text](photo2.png) | [link]][Arbitrary case-insensitive reference text]|
+| 국외 | 이동식 중앙분리선 | ![alt text](photo2.png) | [link][Arbitrary case-insensitive reference text]|
 
 [arbitrary case-insensitive reference text]:http://t-eng.tistory.com/11
