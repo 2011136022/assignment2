@@ -3,10 +3,10 @@
 ![alt text](Rush-Hour.jpg)
 
 - 팀원 
-	-  김영호
-	- 정우진
-	- 조준환
-	- 차재영
+	-  김영호 (github : 2011136022)
+	- 정우진 (github : wjddnwls918)
+	- 조준환 (github : jojoonhwan)
+	- 차재영 (github : xkdl330)
 
 ----------
 
